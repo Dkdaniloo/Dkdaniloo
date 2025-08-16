@@ -9,11 +9,12 @@ Olá, sou o **Danilo**, desenvolvedor apaixonado por tecnologia e inovação. Co
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@danilolimaalbuquerque2921?sub_confirmation=1">
-    <img src="https://www.youtube.com/@danilolimaalbuquerque2921">
+  <a href="https://www.youtube.com/@danilolimaalbuquerque2921">
+    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
   </a>
 </p>
 
+![You
 ![YouTube Subscribers](https://www.youtube.com/@danilolimaalbuquerque2921)
 
 ![YouTube Views](https://www.youtube.com/@danilolimaalbuquerque2921)
