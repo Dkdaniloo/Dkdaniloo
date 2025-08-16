@@ -58,7 +58,7 @@ Trago um pouco tecnologias que estou estudando. Aqui estão algumas das ferramen
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
-[Mente Maker](https://www.linkedin.com/in/danilo-lima-albuquerque-69385b232/)
+[Danilo ](https://www.linkedin.com/in/danilo-lima-albuquerque-69385b232/)
 
 ---
 
