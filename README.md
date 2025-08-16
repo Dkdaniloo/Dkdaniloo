@@ -20,22 +20,6 @@ Olá, sou o **Danilo**, desenvolvedor apaixonado por tecnologia e inovação. Co
 ![YouTube Views](https://www.youtube.com/@danilolimaalbuquerque2921)
 
 
-### 🌐 **Minhas Redes Sociais**  
-Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@dk.danilo/featured">
-    <img src="https://www.youtube.com/@danilolimaalbuquerque2921" alt="Ícone YouTube" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.instagram.com/p/https://www.instagram.com/dk.danilo/">
-    <img src="https://www.instagram.com/dk.danilo/" alt="Ícone Instagram" style="margin: 0 10px;">
-  </a>
-  <a href="https://replit.com/@dk.danilo">
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
-  </a>
-  
- 
-
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
 Trago um pouco tecnologias que estou estudando. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
 
