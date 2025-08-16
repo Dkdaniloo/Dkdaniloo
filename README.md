@@ -14,10 +14,6 @@ Olá, sou o **Danilo**, desenvolvedor apaixonado por tecnologia e inovação. Co
   </a>
 </p>
 
-![You
-![YouTube Subscribers](https://www.youtube.com/@danilolimaalbuquerque2921)
-
-![YouTube Views](https://www.youtube.com/@danilolimaalbuquerque2921)
 
 
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
