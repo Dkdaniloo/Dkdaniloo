@@ -10,8 +10,8 @@ Olá, sou o **Danilo**, desenvolvedor apaixonado por tecnologia e inovação. Co
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@dk.danilo?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
+  <a href="https://youtube.com/@danilolimaalbuquerque2921?sub_confirmation=1">
+    <img src="https://www.youtube.com/@danilolimaalbuquerque2921">
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
     <img src="https://www.youtube.com/@danilolimaalbuquerque2921" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
   <a href="https://www.instagram.com/p/https://www.instagram.com/dk.danilo/">
-    <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
+    <img src="https://www.instagram.com/dk.danilo/" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/@dk.danilo">
     <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
